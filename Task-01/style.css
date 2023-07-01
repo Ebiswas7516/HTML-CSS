@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 1200px;
+}
+
+.left-content {
+  border: 1px solid black;
+  width: 500px;
+  float: left;
+}
+
+.right-content {
+  width: 500px;
+  float: left;
+}
+
+div {
+  clear: both;
+}
